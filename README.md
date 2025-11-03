@@ -27,12 +27,9 @@ Our [syllabus and detailed schedule](https://www.notion.so/The-AI-Engineering-Bo
 
 For each session, you can find everything you need directly in the GitHub README.md for that session. This includes:
 
-- 📛 Required Tooling & Account Setup
-- 🧑‍💻 Recommended Pre-Work!
-- ⏺️ Recordings
-- 🖼️ Slide Decks
-- ⌨️ Assignment Code
-- 📜 Assignment Submission Forms
+- 📛 Required Tooling, Account Setup & 🧑‍💻 Recommended Pre-Work!
+- ⏺️ Recordings & 🖼️ Slide Decks
+- ⌨️ Assignment Code & 📜 Assignment Submission Forms
 
 ## 🧰 Tooling
 
