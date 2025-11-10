@@ -35,3 +35,7 @@ The **code** for this session flows directly from these core concepts, and inclu
 3. Vibe-coding frontend applications from natural language prompts using [v0.app](https://v0.app/)
 4. Multi-agent parallelized code development of frontend applications
 5. How to manage full CI/CD deployment pipelines that allow you to push to GitHub and deploy live production applications directly
+
+# 🤩 **For Fun**
+
+- The original [Context Engineering](https://x.com/karpathy/status/1886192184808149383) [talk](https://www.youtube.com/watch?v=8kMaTybvDUw) & [repo](https://github.com/humanlayer/12-factor-agents), by [Dex Horthy](https://x.com/dex_horthy)
